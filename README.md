@@ -18,6 +18,14 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 #### Ajout des machines 
 ![ajout machine 1](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/7bef767b-ebff-4d5d-ad1b-5cd4f7b680af)
 ![ajout machine 2](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/e7f7d8cf-c946-48d0-b673-c7b770f04dcb)
+#### Supression des machines
+![supp](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/e2217e98-b0c9-4710-9716-6ec2a2ba7b01)
+![sup2](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/7183beff-33cf-436c-83d8-a23a702fae85)
+![sup2](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/b3902d40-80c6-4f4d-88d3-415b5aadcbd4)
+
+#### Modification des machines 
+![mod1](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/2aedde55-f870-4719-b1b8-b6fca92e1095)
+![mod2](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/beb4a13b-e8ef-4ac6-be49-74782147c478)
 
 
 
