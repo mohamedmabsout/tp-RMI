@@ -15,6 +15,11 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 
 ### Gestion des machines
 ![WhatsApp Image 2023-10-23 at 17 21 48_6719a561](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/60df7504-1b35-44e4-ab88-4fdd4372cfac)
+#### Ajout des machines 
+![ajout machine 1](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/7bef767b-ebff-4d5d-ad1b-5cd4f7b680af)
+![ajout machine 2](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/e7f7d8cf-c946-48d0-b673-c7b770f04dcb)
+
+
 
 ### Gestion des salles 
 ![WhatsApp Image 2023-10-23 at 17 22 20_7d604bd6](https://github.com/mohamedmabsout/tp-RMI/assets/147514368/dfd22f2f-9bd7-401b-baa8-cd62245f203f)
