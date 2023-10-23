@@ -49,7 +49,7 @@ Ce projet est une application de gestion de machines et de salles qui permet d'a
 - Démarrez le serveur RMI en utilisant la classe Server du projet ServerRMI.
 - Exécutez l'application Swing en utilisant la classe principale du projet ClientRMI.
 - Utilisez l'interface graphique pour effectuer des opérations CRUD sur les machines et les salles.
-- Effectuez des recherches pour trouver les machines disponibles dans chaque s
+- Effectuez des recherches pour trouver les machines disponibles dans chaque salle
 
 
 
